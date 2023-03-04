@@ -1,0 +1,30 @@
+{
+  "users": [
+    {},
+    {
+      "userName": "123",
+      "password": "123",
+      "id": 0.3285640738898701
+    },
+    {
+      "userName": "jias",
+      "password": "123",
+      "id": 39.58845889514835
+    },
+    {
+      "userName": "lime lips",
+      "password": "lemonade",
+      "id": 60.3147677727073
+    },
+    {
+      "userName": "slaysha",
+      "password": "marina",
+      "id": 65.59743253659154
+    },
+    {
+      "userName": "рохлять",
+      "password": "8989",
+      "id": 26.25333496306954
+    }
+  ]
+}
